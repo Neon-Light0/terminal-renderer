@@ -1,4 +1,4 @@
-# 2D Terminal Renderer
+# Terminal Renderer
 
 A simple project that I wrote using C++. The main objective was to learn about the basics of animation rendering on the terminal. This will be expanded in the future for 3D cases.
 
